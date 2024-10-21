@@ -1,2 +1,2 @@
 # Rick-and-Morty-API
-basics of working with API
+basic working with API
